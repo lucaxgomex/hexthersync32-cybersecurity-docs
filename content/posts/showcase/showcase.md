@@ -1,6 +1,5 @@
 +++
-author = "Hugo Authors & Radek"
-title = "Showcase"
+title = "Cyber Security Principles"
 date = "2019-03-11"
 description = "Sample article showcasing basic styling and formatting for HTML elements."
 +++
